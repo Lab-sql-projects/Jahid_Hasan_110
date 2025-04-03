@@ -1,3 +1,4 @@
+USE flight_booking;  
 
 CREATE TABLE Passengers (
     passenger_id INT PRIMARY KEY AUTO_INCREMENT,
